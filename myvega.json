@@ -3,7 +3,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "width" : 950 ,
   "height": 500,
-  "data": {"url": "https://raw.githubusercontent.com/baggio40/Vega_project/master/%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%8A%E0%B8%99CSV.csv"},
+  "data": {"url": "https://raw.githubusercontent.com/baggio40/Vega_Project_final/master/Pop_bangkok.csv"},
   
   "title": "จำนวนประชากรชายรวมในแต่ละชุมชนของแต่ละเขตในกรุงเทพมหานครฯ ",
   "selection":{
